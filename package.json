@@ -1,0 +1,29 @@
+{
+  "name": "jsGame",
+  "version": "1.0.0",
+  "description": "First js game",
+  "main": "index.js",
+  "scripts": {
+    "dist": "webpack",
+    "watch": "webpack -w",
+    "server": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Romagod/jsGame.git"
+  },
+  "author": "Romagod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Romagod/jsGame/issues"
+  },
+  "homepage": "https://github.com/Romagod/jsGame#readme",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.3",
+    "babel-loader": "^8.0.5",
+    "webpack": "^4.28.3",
+    "webpack-cli": "^3.2.0",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
