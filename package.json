@@ -1,6 +1,6 @@
 {
-  "name": "jsGame",
-  "version": "1.0.0",
+  "name": "js-game",
+  "version": "1.0.1",
   "description": "First js game",
   "main": "index.js",
   "scripts": {
